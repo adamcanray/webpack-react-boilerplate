@@ -4,6 +4,7 @@
 # dir
 
 # rc files
+.env
 .czrc
 
 # files
