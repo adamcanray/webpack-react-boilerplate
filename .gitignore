@@ -1,0 +1,10 @@
+# modules
+/node_modules
+
+# dir
+
+# rc files
+.env
+.czrc
+
+# files
