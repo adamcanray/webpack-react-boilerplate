@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "npx semantic-release"
+    "build-dev": "webpack --mode development",
+    "build-prod": "webpack --mode production",
+    "start": "webpack serve --hot --mode development"
   },
   "repository": {
     "type": "git",

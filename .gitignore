@@ -8,4 +8,5 @@
 .czrc
 
 # files
+/dist
 /docs/CORE_GUIDE.md
