@@ -5,8 +5,7 @@
 
 # rc files
 .env
-.czrc
 
 # files
-/dist/bundle.js
+/dist/*.js
 /docs/CORE_GUIDE.md

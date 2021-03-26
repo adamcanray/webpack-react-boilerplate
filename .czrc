@@ -1,0 +1,41 @@
+{
+  "path": "cz-conventional-changelog",
+  "types": {
+    "feat": {
+      "description": "A new feature",
+      "title": "Features"
+    },
+    "build": {
+      "description": "Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)",
+      "title": "Build"
+    },
+    "ci": {
+      "description": "Changes to our CI configuration files and scripts (example scopes: Circle, BrowserStack, SauceLabs)",
+      "title": "CI"
+    },
+    "docs": {
+      "description": "Documentation only changes",
+      "title": "Documentation"
+    },
+    "fix": {
+      "description": "A bug fix",
+      "title": "Fix Some Bugs"
+    },
+    "perf": {
+      "description": "A code change that improves performance",
+      "title": "Performance"
+    },
+    "refactor": {
+      "description": "A code change that neither fixes a bug nor adds a feature",
+      "title": "Refactor"
+    },
+    "test": {
+      "description": "Adding missing tests or correcting existing tests",
+      "title": "Test"
+    },
+    "conf": {
+      "description": "add or change configuration files",
+      "title": "Config"
+    }
+  }
+}
