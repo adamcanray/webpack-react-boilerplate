@@ -51,7 +51,8 @@ const config = {
     }
   },
   devServer: {
-    contentBase: './dist'
+    contentBase: './dist',
+    historyApiFallback: true, // source: https://stackoverflow.com/a/56601922/11587161
   }
 };
 
