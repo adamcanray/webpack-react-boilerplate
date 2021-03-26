@@ -8,5 +8,5 @@
 .czrc
 
 # files
-/dist
+/dist/bundle.js
 /docs/CORE_GUIDE.md
